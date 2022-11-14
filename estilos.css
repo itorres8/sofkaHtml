@@ -1,0 +1,39 @@
+h1{
+    text-transform: capitalize;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+ul li{
+    text-transform: capitalize;
+}
+
+h2{
+    color: rgb(103, 103, 100);
+}
+table{
+    border: 1px solid black;
+
+}
+
+table tr th,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+caption{
+    text-align: center;
+}
+
+.headtable, .footer{
+    background-color: rgb(72, 70, 70);
+    
+}
+th{
+    padding: 3px;
+}
+
+
